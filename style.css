@@ -1,0 +1,26 @@
+section{
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    width: 200px;
+}
+welcome{
+    z-index:9;
+}
+.menu{
+    z-index: 8;
+}
+.link{
+    font-size: 20px;
+    float: left;
+    color:red;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Roboto Mono';
+}
+.link:hover{
+    background-color: teal;
+}
